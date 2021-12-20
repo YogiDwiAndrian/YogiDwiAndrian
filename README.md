@@ -37,6 +37,8 @@
   <img alt="Profile overview" src="https://raw.githubusercontent.com/YogiDwiAndrian/github-stats-transparent/output/generated/overview.svg">
   <img alt="Repo languages overall" src="https://raw.githubusercontent.com/YogiDwiAndrian/github-stats-transparent/output/generated/languages.svg" />
   <img alt="Weekly stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=YogiDwiAndrian&layout=compact">
+  <!--START_SECTION:waka-->
+  <!--END_SECTION:waka-->
 </p>
 
 
