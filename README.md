@@ -36,10 +36,8 @@
 <p>
   <img alt="Profile overview" src="https://raw.githubusercontent.com/YogiDwiAndrian/github-stats-transparent/output/generated/overview.svg">
   <img alt="Repo languages overall" src="https://raw.githubusercontent.com/YogiDwiAndrian/github-stats-transparent/output/generated/languages.svg" />
-  <img alt="Weekly stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=YogiDwiAndrian&layout=compact">
+  
   <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
-
 **🐱 My GitHub Data** 
 
 > 🏆 43 Contributions in the Year 2021
