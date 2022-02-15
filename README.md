@@ -67,13 +67,10 @@ Sunday       0 commits      ░░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Groovy                   2 mins              █████████████████░░░░░░░░   70.69% 
-Properties               1 min               ███████░░░░░░░░░░░░░░░░░░   29.31% 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+No Activity Tracked This Week
 
 🔥 Editors: 
-Android Studio           3 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -94,7 +91,7 @@ Kotlin                   1 repo              ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/YogiDwiAndrian/YogiDwiAndrian/main/charts/bar_graph.png) 
 
 
- Last Updated on 14/02/2022 00:30:18 UTC
+ Last Updated on 15/02/2022 00:31:17 UTC
 <!--END_SECTION:waka-->
 </p>
 
