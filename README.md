@@ -67,10 +67,11 @@ Sunday       0 commits      ░░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   8 mins              █████████████████████░░░░   86.95% 
+Markdown                 1 min               ███░░░░░░░░░░░░░░░░░░░░░░   13.05%
 
 🔥 Editors: 
-No Activity Tracked This Week
+PyCharmCore              10 mins             █████████████████████████   100.0%
 
 ```
 
@@ -91,7 +92,7 @@ Kotlin                   1 repo              ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/YogiDwiAndrian/YogiDwiAndrian/main/charts/bar_graph.png) 
 
 
- Last Updated on 18/02/2022 00:34:20 UTC
+ Last Updated on 19/02/2022 00:34:44 UTC
 <!--END_SECTION:waka-->
 </p>
 
