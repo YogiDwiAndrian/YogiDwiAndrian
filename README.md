@@ -69,10 +69,10 @@ Sunday       1 commits      ░░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Python                   9 hrs 15 mins       █████████████████████████   100.0%
+Python                   13 hrs 46 mins      █████████████████████████   100.0%
 
 🔥 Editors: 
-VS Code                  9 hrs 15 mins       █████████████████████████   100.0%
+VS Code                  13 hrs 46 mins      █████████████████████████   100.0%
 
 ```
 
@@ -93,7 +93,7 @@ Kotlin                   1 repo              ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/YogiDwiAndrian/YogiDwiAndrian/main/charts/bar_graph.png) 
 
 
- Last Updated on 06/06/2022 00:49:35 UTC
+ Last Updated on 07/06/2022 00:39:11 UTC
 <!--END_SECTION:waka-->
 </p>
 
