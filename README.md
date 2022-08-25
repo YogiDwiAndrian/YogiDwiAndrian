@@ -38,7 +38,7 @@
   <img alt="Repo languages overall" src="https://raw.githubusercontent.com/YogiDwiAndrian/github-stats-transparent/output/generated/languages.svg" />
   
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-240%20hrs%2057%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-245%20hrs%2033%20mins-blue)
 
 **I'm an Early 🐤** 
 
@@ -95,7 +95,7 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/YogiDwiAndrian/YogiDwiAndrian/main/charts/bar_graph.png) 
 
 
- Last Updated on 24/08/2022 00:54:02 UTC
+ Last Updated on 25/08/2022 00:59:16 UTC
 <!--END_SECTION:waka-->
 </p>
 
