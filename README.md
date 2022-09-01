@@ -38,7 +38,7 @@
   <img alt="Repo languages overall" src="https://raw.githubusercontent.com/YogiDwiAndrian/github-stats-transparent/output/generated/languages.svg" />
   
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-251%20hrs%201%20min-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-252%20hrs%2047%20mins-blue)
 
 **I'm an Early 🐤** 
 
@@ -69,14 +69,14 @@ Sunday       1 commits      ░░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Python                   6 hrs 8 mins        █████████████████████░░░░   84.79% 
-Markdown                 51 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.88% 
-Other                    14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.29% 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.03%
+Python                   3 hrs 8 mins        ██████████████████░░░░░░░   74.11% 
+Markdown                 51 mins             █████░░░░░░░░░░░░░░░░░░░░   20.23% 
+Other                    14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.6% 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.06%
 
 🔥 Editors: 
-VS Code                  6 hrs 59 mins       ████████████████████████░   96.71% 
-Word                     14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.29%
+VS Code                  4 hrs               ███████████████████████░░   94.4% 
+Word                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.6%
 
 ```
 
@@ -97,7 +97,7 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/YogiDwiAndrian/YogiDwiAndrian/main/charts/bar_graph.png) 
 
 
- Last Updated on 31/08/2022 01:02:14 UTC
+ Last Updated on 01/09/2022 00:51:03 UTC
 <!--END_SECTION:waka-->
 </p>
 
