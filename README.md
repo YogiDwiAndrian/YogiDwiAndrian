@@ -38,46 +38,7 @@
   <img alt="Repo languages overall" src="https://raw.githubusercontent.com/YogiDwiAndrian/github-stats-transparent/output/generated/languages.svg" />
   
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-260%20hrs%2045%20mins-blue)
-
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    24 commits     ███████░░░░░░░░░░░░░░░░░░   29.27% 
-🌆 Daytime    37 commits     ███████████░░░░░░░░░░░░░░   45.12% 
-🌃 Evening    17 commits     █████░░░░░░░░░░░░░░░░░░░░   20.73% 
-🌙 Night      4 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   4.88%
-
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday       19 commits     █████░░░░░░░░░░░░░░░░░░░░   23.17% 
-Tuesday      30 commits     █████████░░░░░░░░░░░░░░░░   36.59% 
-Wednesday    19 commits     █████░░░░░░░░░░░░░░░░░░░░   23.17% 
-Thursday     3 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   3.66% 
-Friday       8 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   9.76% 
-Saturday     2 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.44% 
-Sunday       1 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.22%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Jakarta
-
-💬 Programming Languages: 
-Markdown                 1 hr 27 mins        ████████████░░░░░░░░░░░░░   49.72% 
-Python                   1 hr 26 mins        ████████████░░░░░░░░░░░░░   49.23% 
-Batchfile                1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   1.01% 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.04%
-
-🔥 Editors: 
-VS Code                  2 hrs 55 mins       █████████████████████████   100.0%
-
-```
+![Code Time](http://img.shields.io/badge/Code%20Time-262%20hrs%2036%20mins-blue)
 
 **I Mostly Code in Python** 
 
@@ -96,7 +57,7 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/YogiDwiAndrian/YogiDwiAndrian/main/charts/bar_graph.png) 
 
 
- Last Updated on 14/09/2022 00:56:23 UTC
+ Last Updated on 15/09/2022 01:00:20 UTC
 <!--END_SECTION:waka-->
 </p>
 
