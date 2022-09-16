@@ -38,7 +38,46 @@
   <img alt="Repo languages overall" src="https://raw.githubusercontent.com/YogiDwiAndrian/github-stats-transparent/output/generated/languages.svg" />
   
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-262%20hrs%2036%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-263%20hrs%2031%20mins-blue)
+
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    24 commits     ███████░░░░░░░░░░░░░░░░░░   28.92% 
+🌆 Daytime    37 commits     ███████████░░░░░░░░░░░░░░   44.58% 
+🌃 Evening    18 commits     █████░░░░░░░░░░░░░░░░░░░░   21.69% 
+🌙 Night      4 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   4.82%
+
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday       19 commits     █████░░░░░░░░░░░░░░░░░░░░   22.89% 
+Tuesday      30 commits     █████████░░░░░░░░░░░░░░░░   36.14% 
+Wednesday    20 commits     ██████░░░░░░░░░░░░░░░░░░░   24.1% 
+Thursday     3 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   3.61% 
+Friday       8 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   9.64% 
+Saturday     2 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.41% 
+Sunday       1 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.2%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Jakarta
+
+💬 Programming Languages: 
+Python                   2 hrs 11 mins       ██████████████░░░░░░░░░░░   59.45% 
+Markdown                 1 hr 27 mins        █████████░░░░░░░░░░░░░░░░   39.45% 
+Batchfile                1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.8% 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.3%
+
+🔥 Editors: 
+VS Code                  3 hrs 40 mins       █████████████████████████   100.0%
+
+```
 
 **I Mostly Code in Python** 
 
@@ -57,7 +96,7 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/YogiDwiAndrian/YogiDwiAndrian/main/charts/bar_graph.png) 
 
 
- Last Updated on 15/09/2022 01:00:20 UTC
+ Last Updated on 16/09/2022 01:00:25 UTC
 <!--END_SECTION:waka-->
 </p>
 
